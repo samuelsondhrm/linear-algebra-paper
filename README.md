@@ -1,8 +1,5 @@
 # 📊 SSA Denoising Pipeline
-
-*Paper Title*: **Denoising Stock Index Time Series via Truncated Singular Value Decomposition on Hankel Matrices**
-
-*Description*: Implementation of **Singular Spectrum Analysis (SSA)** with integrated mean-centering for denoising financial time series. Paper for IF2123 Linear Algebra and Geometry - ITB (2025).
+Implementation of **Singular Spectrum Analysis (SSA)** with integrated mean-centering for denoising financial time series. Paper for IF2123 Linear Algebra and Geometry - ITB (2025).
 
 ## 📌 Overview
 
